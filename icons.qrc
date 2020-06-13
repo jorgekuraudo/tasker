@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>18002152251578463634-128.png</file>
+        <file>52892491537356032-128.png</file>
+        <file>add.png</file>
+        <file>remove.png</file>
+        <file>show.png</file>
+        <file>start.png</file>
+        <file>stop.png</file>
+    </qresource>
+</RCC>
